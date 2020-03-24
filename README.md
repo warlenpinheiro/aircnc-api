@@ -38,4 +38,4 @@ Você pode baixar o layout do projeto no formato `.sketch` através [desse link]
 Para abrir o arquivo no formato `.sketch` em qualquer sistema operacional utilize a ferramenta [Zeplin](https://zeplin.io).
 
 
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Projeto criado na semana omnistack 9.0 com a equipe Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
